@@ -35,7 +35,7 @@
             </button>
             <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav mx-auto py-0">
-                    <a href="index.html" class="nav-item nav-link active">Home</a>
+                    <a href="home.php" class="nav-item nav-link active">Home</a>
                     <!--<div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Bilangan Bulat</a>
                         <div class="dropdown-menu m-0">
@@ -140,7 +140,13 @@
                     <div class="section-title position-relative mb-4">
                         <h1 class="display-4">About Us</h1>
                     </div>
-                <p>@2022</p>
+                <ul>
+                    <li>Alyssa Tyas Milani			    (200312614020)</li>
+                    <li>Luthfannisa Wahyu Pramunegari	(190312617710)</li>
+                    <li>Satrio Onto Wiryo 			    (200312614125)</li>
+                    <li>Vina Maulida Junia 			    (200312614098)</li>
+                </ul> 
+</p>
     </div>
     </section>
 
